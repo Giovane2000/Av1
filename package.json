@@ -1,0 +1,21 @@
+{
+  "name": "teste",
+  "version": "1.0.0",
+  "description": "Av1 aula 02",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node ./dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Repositorio",
+    "javascript",
+    "typescript",
+    "git"
+  ],
+  "author": "Giovane",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
+}
