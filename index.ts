@@ -1,5 +1,4 @@
 let variavel: string; 
 
-console.log('teste 006');
-
-console.log('Tteste 033')
+console.log('teste 021');
+console.log('ok,ok');
